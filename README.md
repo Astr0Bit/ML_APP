@@ -1,5 +1,3 @@
----
-
 # ML Application README
 
 This application automates the process of Exploratory Data Analysis (EDA), feature engineering, model selection, and model training for both regression and classification tasks. The user can simply input a CSV file, specify the target column, and the application will handle the rest, including handling missing values, encoding categorical features, selecting the appropriate model, and hyperparameter tuning.
@@ -87,5 +85,3 @@ from sklearn.linear_model import LinearRegression, RidgeCV, LassoCV, ElasticNetC
 - `tkinter`
 - `joblib`
 - `termcolor`
-
----
